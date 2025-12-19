@@ -1,8 +1,10 @@
 AMERICAN EXPRESS SALES DASHBOARD (Excel)
+
  Project Overview
 This project is an Excel-based sales performance dashboard designed to analyze American Express sales data across regions, departments, regions  and time periods. The dashboard provides clear, decision-ready insights for business stakeholders.
 
 DASHBOARD OBJECTIVES AND QUESTOIONS ANSWERED
+
 •	What is the overall trend of revenue and profits overtime?
 •	Which region generates the highest profits?
 •	How does different departments contribute to total revenue?
@@ -11,10 +13,12 @@ DASHBOARD OBJECTIVES AND QUESTOIONS ANSWERED
 •	Identify the top 5 companies in terms of profit made  
 
  DASHBOARD PREVIEW
+ 
  The excel dashboard provides a visual summary of American Express Sales performance, combining key metrics, trend analysis and comparative insights in a sigle row.
 [Dashboard Preview](dashboard_preview.png)
  
  TOOLS AND TECHNIQUES USED
+ 
 •	Microsoft Excel
 •	Pivot Tables & Pivot Charts
 •	KPI Metrics
@@ -24,6 +28,7 @@ DASHBOARD OBJECTIVES AND QUESTOIONS ANSWERED
 •	Slicers
  
  KEY INSIGHTS
+ 
 •	High performing regions and departments should be prioritized for scaling. 
 •	Underperforming regions(e.g Florida) reguire cost or strategy review.
 •	Strategy and CloudTech are the strongest revenue drivers.
@@ -34,10 +39,12 @@ DASHBOARD OBJECTIVES AND QUESTOIONS ANSWERED
 •	Profit margin analysis reveals opportunities for operational efficiency improvements.
 
  FILES IN THIS REPOSITORY
+ 
 - American Express Sales Dashboard.xlsx – Interactive Excel dashboard
 - dashboard preview.png – Visual snapshot of the dashboard
 
 SKILLS DEVELOPED
+
 - Data analysis and storytelling
 - Business insight generation
 - Excel dashboard development
